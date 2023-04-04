@@ -1,8 +1,5 @@
 # Hyper-casual Projects
 
-Projects that I took part in the development
-
-
 ## With Gigantic Games
 
 ### 1. Base Defense!
