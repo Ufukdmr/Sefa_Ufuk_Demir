@@ -1,6 +1,9 @@
-# With Gigantic Games
+# Hyper-casual Projects
+
+Projects that I took part in the development
 
 
+## With Gigantic Games
 
 ### 1. Base Defense!
   > https://apps.apple.com/tr/app/base-defense/id1628006501?l
